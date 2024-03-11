@@ -23,7 +23,7 @@ Realizar os cursos da Microsoft:
 
 > Todas realizaram os cursos solicitados e fizeram individulmente seus exercícios, juntamos aos poucos ao repositório principal para registrar a contribuição.
 
->⚠️ Algumas das participantes não contribuíram diretamente por meio de commits no repositório, mas contribuíram através das chamadas, como eram poucos exercícios acabaram não contribuindo efetivamente no repositório. É importante ressaltar que TODAS, SEM EXCEÇÃO, PARTICIPARAM ativamente do projeto.
+>⚠️ Algumas das participantes não contribuíram diretamente por meio de commits no repositório, mas contribuíram através das chamadas, como eram poucos exercícios acabaram não contribuindo efetivamente no repositório.
 
 [![Retornar ao índice](https://img.shields.io/badge/Retornar%20ao%20%C3%ADndice-Verde%20Escuro?color=%23006400&style=flat&labelColor=%23006400&logo=github)](#retornar-ao-índice)
 
@@ -75,33 +75,33 @@ Realizar os cursos da Microsoft:
 <div style="align-itens:center">
 <table>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/alynebrasil"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37218646?v=4" width="100px;" alt="Imagem Alyne"/><br /><sub><b>Alyne Brasil</b></sub></a><br /><a href="https://github.com/alynebrasil">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/anamariagds"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/23744957?v=4" width="100px;" alt="Imagem Ana Maria"/><br /><sub><b>Ana Maria Gomes</b></sub></a><br /><a href="https://github.com/anamariagds">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/cibelemoraes"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93668580?v=4" width="100px;" alt="Imagem Ana Maria"/><br /><sub><b>Cibelle Moraes</b></sub></a><br /><a href="https://github.com/cibelemoraes">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/danisoaresl"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84364512?v=4" width="100px;" alt="Imagem Daniele"/><br /><sub><b>Daniele Soares</b></sub></a><br /><a href="https://github.com/danisoaresl">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/gabiapp"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108434852?v=4" width="100px;" alt="Imagem Gessyca"/><br /><sub><b>Gabriela Nunez</b></sub></a><br /><a href="https://github.com/gabiapp">👩‍💻</a>
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/GessycaBorges"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/124705468?v=4" width="100px;" alt="Imagem Gessyca"/><br /><sub><b>Gessyca Borges</b></sub></a><br /><a href="https://github.com/GessycaBorges">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/OrcFofa"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104779345?v=4" width="100px;" alt="Imagem Laura"/><br /><sub><b>Laura Santos</b></sub></a><br /><a href="https://github.com/OrcFofa">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/Renatarafaelaalves"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/141291179?v=4" width="100px;" alt="Imagem Renata"/><br /><sub><b>Renata Rafaela Alves</b></sub></a><br /><a href="https://github.com/Renatarafaelaalves">👩‍💻</a>
         </td>
-        <td>
+        <td align="center">
             <a href="https://github.com/thaynarlt"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75785465?v=4" width="100px;" alt="Imagem Thayna"/><br /><sub><b>Thayná Tolentino</b></sub></a><br /><a href="https://github.com/thaynarlt">👩‍💻</a>
         </td>
     </tr>
